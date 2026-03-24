@@ -14,9 +14,17 @@ b.	Sign In (use Illinois credentials)
 c.	Launch server
 d.	Select Jupyter – Python and CPU 4CPU/16GB
 e.	Upload OligomerFeatures.csv to your workspace by using the file upload feature in the top left corner. 
-f.	Upload Student-Notebook.ipynb. Make three copies of the notebook, labeled SO, T80, and Photostability. 
+f.	Upload Student-Notebook.ipynb. Make three copies of the notebook, labeled SO, T80, and Photostability.
+
 Activity: Linear Regression to Predict SO, T80, and Photostability
 In this activity, you will train and analyze linear regression models for the prediction of SO, T80, and Photostability. 
-Record your responses to the reflection questions presented in each block of code. The questions are duplicated on your Report Sheet for convenience. 
+
+Record your responses to the reflection questions presented in each block of code. 
+
 You should run three notebooks, one for each target. Make sure to look out for Student Tasks written into the code where changes are required based on the target of interest (SO, T80, and Photostability). 
+
+Use Shift + Enter to run a Block. When the Block shows [*] this means the code is still running. When the Block shows [number] this means the code has completed. 
+
+Sections without [  ] are for instructional purposes only. Read through the material then proceed.
+
 
