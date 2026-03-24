@@ -2,10 +2,10 @@
 Linear Regression in Jupyter Notebook: CHEM237 Molecule Maker Lab
 
 For this activity, you will access two GitHub pages. The ClosedLoopTransfer Page is the original published report which contains DFT-calculated features for the OPV molecules you are investigating. The CHEM237 Page contains the instructional notebook for this activity. 
-1.	Visit the GitHub page for ClosedLoopTransfer: https://github.com/TheJacksonLab/ClosedLoopTransfer
+1.	Visit the GitHub page for ClosedLoopTransfer: https://github.com/TheJacksonLab/ClosedLoopTransfer 
 2.	Download research dataset: OligomerFeatures.csv
 
-3.	Visit the GitHub page for CHEM237: Link
+3.	Visit the GitHub page for CHEM237: https://github.com/Rachel-Walker-Hammond/CHEM237 
 4.	Download Jupyter Notebook: Student-Notebook.ipynb
 
 5.	Set up your computational work area
